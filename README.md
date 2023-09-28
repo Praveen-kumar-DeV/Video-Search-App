@@ -4,7 +4,7 @@ A Simple Video Search & Video Player App
 
 It is made Using YouTube Data API v3
 
-Inorder to run the App, Add the YouTube `API Key` in the file `App.js`
+Inorder to run the App, Add the YouTube `API Key` in the file `App.js` \
 
 ## Available Scripts
 
